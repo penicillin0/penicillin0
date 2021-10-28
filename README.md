@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=penicillin0&show_icons=true)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=penicillin0&show_iconstheme=dracula)
 
 <!--
 **penicillin0/penicillin0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
